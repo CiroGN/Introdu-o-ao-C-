@@ -41,5 +41,30 @@ namespace QuestoesConcurso
         }
     }
         //Assinale a alternativa que apresenta, corretamente, o que o trecho de código em linguagem de programação C# fará ao ser executado.
+
+                    /*Question 4:
+(FGV - 2018 - BANESTES - Analista em Tecnologia da Informação -Suporte e Infraestrutura) Analise os trechos de código C# exibidos a seguir.*/
+            for (int i = 0; i < 10; i++)
+            {
+                if ((i % 2) == 0)
+                {
+                    break;
+                }
+                xpto1(i);
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                if ((i % 2) == 0)
+                {
+                    continue;
+                }
+                xpto2(i);
+            }
+            /*Dado que o operador % resulta no resto da divisão de seus operandos, está correto concluir que xpto1 e xpto2 serão invocados:
+
+Dica 1: a palavra-chave break invocada dentro de um laço iterativo causa sua interrupção imediata, ou seja, após ser chamada a próxima linha de código a ser executada é aquela imediatamente após laço.
+
+Dica 2: a palavra-chave continue invocada dentro de um laço iterativo causa o salto imediato para a próxima iteração.*/
 }
 
