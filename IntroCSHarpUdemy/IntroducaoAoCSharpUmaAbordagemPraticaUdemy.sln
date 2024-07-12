@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{F0403AF0-847D-4AFB-99FD-DDCCBDF57BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposEVariaaveis", "TiposEVariaaveis\TiposEVariaaveis.csproj", "{7A6ADC37-DB19-4D57-969C-E13BF1EC8103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{E5E7148E-C1E0-4D5E-A4EF-3ADC9F7BCA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{368E13BC-D4E6-4989-81D9-2A063199D0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestoesConcurso", "QuestoesConcurso\QuestoesConcurso.csproj", "{4AEAAB6F-CD17-4307-AB42-F3216C338AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMundoDasClassesPt1", "OMundoDasClassesPt1\OMundoDasClassesPt1.csproj", "{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0403AF0-847D-4AFB-99FD-DDCCBDF57BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0403AF0-847D-4AFB-99FD-DDCCBDF57BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0403AF0-847D-4AFB-99FD-DDCCBDF57BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0403AF0-847D-4AFB-99FD-DDCCBDF57BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6ADC37-DB19-4D57-969C-E13BF1EC8103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6ADC37-DB19-4D57-969C-E13BF1EC8103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6ADC37-DB19-4D57-969C-E13BF1EC8103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6ADC37-DB19-4D57-969C-E13BF1EC8103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E7148E-C1E0-4D5E-A4EF-3ADC9F7BCA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E7148E-C1E0-4D5E-A4EF-3ADC9F7BCA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E7148E-C1E0-4D5E-A4EF-3ADC9F7BCA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E7148E-C1E0-4D5E-A4EF-3ADC9F7BCA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368E13BC-D4E6-4989-81D9-2A063199D0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368E13BC-D4E6-4989-81D9-2A063199D0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368E13BC-D4E6-4989-81D9-2A063199D0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368E13BC-D4E6-4989-81D9-2A063199D0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEAAB6F-CD17-4307-AB42-F3216C338AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEAAB6F-CD17-4307-AB42-F3216C338AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEAAB6F-CD17-4307-AB42-F3216C338AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEAAB6F-CD17-4307-AB42-F3216C338AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C51D822-7DBA-4370-B4A7-940F73ED2A4A}
+	EndGlobalSection
+EndGlobal
