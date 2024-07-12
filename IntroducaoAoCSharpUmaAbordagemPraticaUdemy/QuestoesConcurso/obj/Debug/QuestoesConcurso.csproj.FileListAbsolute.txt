@@ -1,7 +1,0 @@
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\bin\Debug\QuestoesConcurso.exe.config
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\bin\Debug\QuestoesConcurso.exe
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\bin\Debug\QuestoesConcurso.pdb
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\obj\Debug\QuestoesConcurso.csproj.AssemblyReference.cache
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\obj\Debug\QuestoesConcurso.csproj.CoreCompileInputs.cache
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\obj\Debug\QuestoesConcurso.exe
-C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\QuestoesConcurso\obj\Debug\QuestoesConcurso.pdb

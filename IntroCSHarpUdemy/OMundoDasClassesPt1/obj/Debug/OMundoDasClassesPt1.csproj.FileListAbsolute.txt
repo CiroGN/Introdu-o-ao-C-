@@ -1,0 +1,7 @@
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\bin\Debug\OMundoDasClassesPt1.exe.config
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\bin\Debug\OMundoDasClassesPt1.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\bin\Debug\OMundoDasClassesPt1.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\obj\Debug\OMundoDasClassesPt1.csproj.AssemblyReference.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\obj\Debug\OMundoDasClassesPt1.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\obj\Debug\OMundoDasClassesPt1.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\OMundoDasClassesPt1\obj\Debug\OMundoDasClassesPt1.pdb
