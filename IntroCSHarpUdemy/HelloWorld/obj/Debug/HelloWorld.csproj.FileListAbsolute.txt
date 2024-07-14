@@ -5,3 +5,10 @@ C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\He
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\HelloWorld\obj\Debug\HelloWorld.pdb
