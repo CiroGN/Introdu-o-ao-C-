@@ -1,0 +1,10 @@
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\bin\Debug\ModuloCalculadora.dll
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\bin\Debug\ModuloCalculadora.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.AssemblyReference.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\obj\Debug\Calculad.DC09B30C.Up2Date
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb

@@ -1,0 +1,7 @@
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.exe.config
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\bin\Debug\VoceDisseInterfaces.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.csproj.AssemblyReference.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.exe
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\VoceDisseInterfaces\obj\Debug\VoceDisseInterfaces.pdb

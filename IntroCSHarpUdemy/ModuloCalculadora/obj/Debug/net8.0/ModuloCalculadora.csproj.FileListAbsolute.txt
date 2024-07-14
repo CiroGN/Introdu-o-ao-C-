@@ -1,0 +1,12 @@
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.AssemblyInfoInputs.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.AssemblyInfo.cs
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.sourcelink.json
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.deps.json
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.dll
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\bin\Debug\net8.0\ModuloCalculadora.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.dll
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\refint\ModuloCalculadora.dll
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ModuloCalculadora.pdb
+C:\Ciro\repos\Introducao-ao-CSharp\IntroCSHarpUdemy\ModuloCalculadora\obj\Debug\net8.0\ref\ModuloCalculadora.dll
