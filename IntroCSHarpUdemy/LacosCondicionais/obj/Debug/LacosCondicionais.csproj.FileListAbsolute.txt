@@ -5,3 +5,10 @@ C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\D
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.CoreCompileInputs.cache
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.exe
 C:\Ciro\repos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.pdb
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.exe.config
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.exe
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.pdb
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.AssemblyReference.cache
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.exe
+C:\Ciro\repos\IntroducaoACSharpUdemy\IntroCSHarpUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.pdb
