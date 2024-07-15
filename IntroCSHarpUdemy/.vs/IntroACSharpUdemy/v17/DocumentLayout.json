@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\",
+  "WorkspaceRootPath": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|c:\\ciro\\repos\\introducaoacsharpudemy\\introcsharpudemy\\omundodasclassespt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|solutionrelative:omundodasclassespt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B997CC72-F928-4C8E-ABAD-7D18FEEE1D39}|CalculadoraConsole\\CalculadoraConsole.csproj|c:\\ciro\\repos\\introducao-ao-csharp\\introcsharpudemy\\calculadoraconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B997CC72-F928-4C8E-ABAD-7D18FEEE1D39}|CalculadoraConsole\\CalculadoraConsole.csproj|solutionrelative:calculadoraconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\omundodasclassespt1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|solutionrelative:omundodasclassespt1\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F7E9E38-F264-4815-923B-6AB12D0FFF24}|ModuloCalculadora\\ModuloCalculadora.csproj|c:\\ciro\\repos\\introducao-ao-csharp\\introcsharpudemy\\modulocalculadora\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7E9E38-F264-4815-923B-6AB12D0FFF24}|ModuloCalculadora\\ModuloCalculadora.csproj|solutionrelative:modulocalculadora\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\omundodasclassespt1\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3DDF8F-F3BB-43BD-86DE-7DA18B3F8262}|OMundoDasClassesPt1\\OMundoDasClassesPt1.csproj|solutionrelative:omundodasclassespt1\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F7E9E38-F264-4815-923B-6AB12D0FFF24}|ModuloCalculadora\\ModuloCalculadora.csproj|c:\\ciro\\repos\\introducao-ao-csharp\\introcsharpudemy\\modulocalculadora\\operacoesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7E9E38-F264-4815-923B-6AB12D0FFF24}|ModuloCalculadora\\ModuloCalculadora.csproj|solutionrelative:modulocalculadora\\operacoesaritmeticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,42 +37,45 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cor.cs",
-              "DocumentMoniker": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Cor.cs",
-              "RelativeDocumentMoniker": "OMundoDasClassesPt1\\Cor.cs",
-              "ToolTip": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Cor.cs",
-              "RelativeToolTip": "OMundoDasClassesPt1\\Cor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:19:33.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Carro.cs",
-              "RelativeDocumentMoniker": "OMundoDasClassesPt1\\Carro.cs",
-              "ToolTip": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Carro.cs",
-              "RelativeToolTip": "OMundoDasClassesPt1\\Carro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:17:13.227Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Program.cs",
-              "RelativeDocumentMoniker": "OMundoDasClassesPt1\\Program.cs",
-              "ToolTip": "C:\\Ciro\\repos\\IntroducaoACSharpUdemy\\IntroCSHarpUdemy\\OMundoDasClassesPt1\\Program.cs",
-              "RelativeToolTip": "OMundoDasClassesPt1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "DocumentMoniker": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\CalculadoraConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraConsole\\Program.cs",
+              "ToolTip": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\CalculadoraConsole\\Program.cs",
+              "RelativeToolTip": "CalculadoraConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T14:10:22.166Z",
+              "WhenOpened": "2024-07-14T19:48:30.908Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tabuada.cs",
+              "DocumentMoniker": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\ModuloCalculadora\\Tabuada.cs",
+              "RelativeDocumentMoniker": "ModuloCalculadora\\Tabuada.cs",
+              "ToolTip": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\ModuloCalculadora\\Tabuada.cs",
+              "RelativeToolTip": "ModuloCalculadora\\Tabuada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:32:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperacoesAritmeticas.cs",
+              "DocumentMoniker": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\ModuloCalculadora\\OperacoesAritmeticas.cs",
+              "RelativeDocumentMoniker": "ModuloCalculadora\\OperacoesAritmeticas.cs",
+              "ToolTip": "C:\\Ciro\\repos\\Introducao-ao-CSharp\\IntroCSHarpUdemy\\ModuloCalculadora\\OperacoesAritmeticas.cs",
+              "RelativeToolTip": "ModuloCalculadora\\OperacoesAritmeticas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:19:36.332Z"
             }
           ]
         }
